@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1" width="812.5px" height="25px" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg">
+  <g transform="translate(-20.5 -199 )">
+    <path d="M 813.83933982822 207.56066017178  L 817.77867965644 211.5  L 813.83933982822 215.43933982822  L 815.96066017178 217.56066017178  L 820.96066017178 212.56066017178  L 822.02132034356 211.5  L 820.96066017178 210.43933982822  L 815.96066017178 205.43933982822  L 813.83933982822 207.56066017178  Z " fill-rule="nonzero" fill="#000000" stroke="none" />
+    <rect fill-rule="evenodd" fill="#000000" stroke="none" x="22" y="210" width="797" height="3" />
+    <path d="" stroke-width="3" stroke-dasharray="3,3" stroke="#000000" fill="none" />
+  </g>
+</svg>
